@@ -1,0 +1,23 @@
+{
+  "name": "exercise15-2",
+  "version": "1.0.0",
+  "description": "sequelize",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MariaVintimilla/exercise15-2.git"
+  },
+  "author": "maria",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MariaVintimilla/exercise15-2/issues"
+  },
+  "homepage": "https://github.com/MariaVintimilla/exercise15-2#readme",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "sequelize": "^3.19.3"
+  }
+}
