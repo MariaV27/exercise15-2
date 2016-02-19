@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/MariaVintimilla/exercise15-2/issues"
   },
-  "homepage": "https://github.com/MariaVintimilla/exercise15-2#readme"
+  "homepage": "https://github.com/MariaVintimilla/exercise15-2#readme",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "sequelize": "^3.19.3"
+  }
 }
